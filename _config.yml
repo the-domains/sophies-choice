@@ -1,0 +1,14 @@
+layout_spectrum: 0.07613351265899837
+typography_spectrum: 0.6392958201467991
+color:
+  brandStrength: 0.279492421541363
+  lightness: 0.19993191584944725
+  saturation: 0.6463005649857223
+  rhythmicContrast: 0.591773119289428
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: "Sophie's Choice"
